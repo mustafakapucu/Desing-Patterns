@@ -11,5 +11,4 @@ public class Test {
 		Client client = new Client(new ProductAFactory(), new ProductAFactory());
 		client.start();
 	}
-
 }
