@@ -1,4 +1,8 @@
 eclipse.preferences.version=1
+encoding//src/design/patterns/facade/SiparisDetaylari.java=UTF-8
+encoding//src/design/patterns/facade/SiparisFacade.java=UTF-8
+encoding//src/design/patterns/facade/SiparisIslemleri.java=UTF-8
+encoding//src/design/patterns/facade/UrunIslemleri.java=UTF-8
 encoding//src/design/patterns/strategy/OzelYapimUret.java=UTF-8
 encoding//src/design/patterns/strategy/OzelYapimUretStrategy.java=UTF-8
 encoding//src/design/patterns/strategy/Peugeot.java=UTF-8
